@@ -1,0 +1,22 @@
+{
+  "name": "cypress-visual-tvo",
+  "version": "1.0.0",
+  "description": "CYPRESS APPLITOOLS VISUAL TESTING",
+  "main": "index.js",
+  "scripts": {
+    "test": "CYPRESS, APPLITOOLS"
+  },
+  "keywords": [
+    "CYPRESS",
+    "APPLITOOLS"
+  ],
+  "author": "EleniDanessis",
+  "license": "ISC",
+  "devDependencies": {
+    "@applitools/eyes-cypress": "^3.30.0",
+    "cypress": "^12.8.1"
+  },
+  "dependencies": {
+    "cypress-real-events": "^1.7.6"
+  }
+}
